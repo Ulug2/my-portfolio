@@ -7,7 +7,7 @@ return (
     <section className="hero">
         <div className="hero-content">
             <img src='/avatar.jpg' alt="Profile" className="profile-img" />
-            <h2>Ulykbek Khairulla</h2>
+            <h2>Shivang Khairulla</h2>
             <h2>(he/him)</h2>
             <p>Software Engineer</p>
             <button className="email-btn" onClick={() => window.location.href = 'mailto:khaiul01@gettysburg.edu'}>Email me</button>
