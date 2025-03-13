@@ -52,15 +52,16 @@
 
 .profile-img {
   width: 100%;
-  max-width: 15rem; /* Increased from 10rem */
+  max-width: 20rem; /* Increased from 10rem */
   height: auto;
   aspect-ratio: 3/4;
-  border-radius: 7px;
+  border-radius: 20px;
   object-fit: cover;
   margin: 0 auto 1.5rem;
 }
 
 h2 {
+  margin-top: 5px;
   font-size: clamp(1.6rem, 5vw, 2rem); /* Increased for better mobile visibility */
   font-weight: bold;
   margin-bottom: 0.5rem;
