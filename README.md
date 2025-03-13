@@ -66,7 +66,7 @@ This project is deployed using **Vercel**. To deploy:
 
 ## 📬 Contact
 Feel free to connect with me:  
-📧 Email: your-email@example.com  
+📧 Email: khaiul01@gettysburg.edu  
 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/ulugbekkh)  
 🐙 GitHub: [Your GitHub Profile](https://github.com/Ulug2)  
 
