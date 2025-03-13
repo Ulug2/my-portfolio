@@ -6,7 +6,7 @@ function Hero() {
 return (
     <section className="hero">
         <div className="hero-content">
-            <img src='./public/avatar.jpg' alt="Profile" className="profile-img" />
+            <img src='../public/avatar.jpg' alt="Profile" className="profile-img" />
             <h2>Ulykbek Khairulla</h2>
             <h2>(he/him)</h2>
             <p>Software Engineer</p>
