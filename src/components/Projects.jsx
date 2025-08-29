@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './style/Projects.css';
-import projects from './ProjectDatabase'
+import projects from './ProjectDatabase';
 
 const Projects = () => {
     const [selectedProject, setSelectedProject] = useState(null);
